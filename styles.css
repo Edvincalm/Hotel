@@ -1,0 +1,18 @@
+body {
+    background-color: lightsalmon;
+    font-family: Verdana, Arial, Sans-serif;
+}
+
+a {
+    test-decoration: none;
+}
+
+a:link,
+a:visited {
+    color: black;
+}
+
+a :hover {
+    color: darkgoldenrod;
+    text-decoration: underline;
+}
